@@ -24,4 +24,7 @@
 
 </p>
 <h3 align="left">Built by me:</h3>
-<a href="https://bultranslator.netlify.app/" target="_blank" rel="noreferrer">https://bultranslator.netlify.app/</a>
+<a href="https://ezquiz-app.netlify.app/" target="_blank" rel="noreferrer">https://ezquiz-app.netlify.app//</a><br/>
+<a href="https://askingforafriend.netlify.app/" target="_blank" rel="noreferrer">https://askingforafriend.netlify.app//</a><br/>
+<a href="https://giftube.netlify.app/" target="_blank" rel="noreferrer">https://giftube.netlify.app/</a><br/>
+<a href="https://bultranslator.netlify.app/" target="_blank" rel="noreferrer">https://bultranslator.netlify.app/</a><br/>
